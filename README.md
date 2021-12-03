@@ -10,7 +10,7 @@
 
 ### 📫 contact info:
 - 📧 An <a href="ostheperson@gmail.com" style="vertical-align: baseline;"> email address</a>, pls don't spam ‼️ ⚠️ 
-- <img alt="LinkedIn" style="vertical-align: baseline;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.linkedin.com/in/oluwaseyi-ojo/" style="vertical-align: baseline;"></a>For those who don't like writing mails. *cough, cough*
+- <img alt="LinkedIn" style="vertical-align: baseline;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.linkedin.com/in/oluwaseyi-ojo/" style="vertical-align: baseline;"></a>  For those who don't like writing mails. *cough, cough*
 <br>
 
 
