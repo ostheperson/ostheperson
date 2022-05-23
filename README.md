@@ -2,9 +2,9 @@
 
 
 ### 🧬 bio
-- backend stuff<br>
+- Backend stuff<br>
 - Currently devops <a href="https://github.com/SnapiLabs-Inc" style="vertical-align: baseline;">@SnapiLabs</a><br>
-- Working on my Data structures & Algorithms game
+- Working on Data structures & Algorithms game
 - <a href="https://www.codingame.com/profile/fbd8c4ff3c6250e9292946895d52540c5879264" style="vertical-align: baseline;">this</a> is my <a href="https://www.codingame.com" style="vertical-align: baseline;">codingame</a>  profile, battle me.
 
 
