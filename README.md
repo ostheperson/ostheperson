@@ -1,7 +1,6 @@
-<h3 align="left"> They call me OS </h3>
+<h3 align="left"> Hello </h3>
 
-
-### 🧬 bio
+### 🧬 summary
 - Backend stuff<br>
 - Currently devops <a href="https://github.com/SnapiLabs-Inc" style="vertical-align: baseline;">@SnapiLabs</a><br>
 - Working on Data structures & Algorithms game
