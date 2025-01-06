@@ -2,7 +2,6 @@
 
 ### 🧬 summary
 - Backend stuff<br>
-- Currently devops <a href="https://github.com/SnapiLabs-Inc" style="vertical-align: baseline;">@SnapiLabs</a><br>
 - Continuously improving my knowledge on data structures & algorithms.
 
 ### 📫 contact info:
